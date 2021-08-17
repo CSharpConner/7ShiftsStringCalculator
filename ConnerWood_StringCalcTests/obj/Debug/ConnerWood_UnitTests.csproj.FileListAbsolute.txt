@@ -1,0 +1,14 @@
+C:\Users\CONNER\Desktop\ConnerWood_StringCalc\ConnerWood_StringCalcTests\bin\Debug\ConnerWood_StringCalcTests.dll
+C:\Users\CONNER\Desktop\ConnerWood_StringCalc\ConnerWood_StringCalcTests\bin\Debug\ConnerWood_StringCalcTests.pdb
+C:\Users\CONNER\Desktop\ConnerWood_StringCalc\ConnerWood_StringCalcTests\bin\Debug\ConnerWood_StringCalc.exe
+C:\Users\CONNER\Desktop\ConnerWood_StringCalc\ConnerWood_StringCalcTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\CONNER\Desktop\ConnerWood_StringCalc\ConnerWood_StringCalcTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\CONNER\Desktop\ConnerWood_StringCalc\ConnerWood_StringCalcTests\bin\Debug\ConnerWood_StringCalc.pdb
+C:\Users\CONNER\Desktop\ConnerWood_StringCalc\ConnerWood_StringCalcTests\bin\Debug\ConnerWood_StringCalc.exe.config
+C:\Users\CONNER\Desktop\ConnerWood_StringCalc\ConnerWood_StringCalcTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\CONNER\Desktop\ConnerWood_StringCalc\ConnerWood_StringCalcTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\CONNER\Desktop\ConnerWood_StringCalc\ConnerWood_StringCalcTests\obj\Debug\ConnerWood_UnitTests.csprojAssemblyReference.cache
+C:\Users\CONNER\Desktop\ConnerWood_StringCalc\ConnerWood_StringCalcTests\obj\Debug\ConnerWood_UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\CONNER\Desktop\ConnerWood_StringCalc\ConnerWood_StringCalcTests\obj\Debug\ConnerWood_UnitTests.csproj.CopyComplete
+C:\Users\CONNER\Desktop\ConnerWood_StringCalc\ConnerWood_StringCalcTests\obj\Debug\ConnerWood_StringCalcTests.dll
+C:\Users\CONNER\Desktop\ConnerWood_StringCalc\ConnerWood_StringCalcTests\obj\Debug\ConnerWood_StringCalcTests.pdb
